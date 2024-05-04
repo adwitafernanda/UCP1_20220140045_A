@@ -1,0 +1,11 @@
+*{
+    font-family: "Poetsen One", sans-serif;
+}
+.navbar-brand {
+    display: inline-block;
+    transition: transform 0.5s ease;
+}
+
+.navbar-brand:hover {
+    transform: rotate(360deg);
+}
